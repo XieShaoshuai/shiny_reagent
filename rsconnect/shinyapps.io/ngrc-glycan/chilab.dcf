@@ -1,0 +1,13 @@
+name: chilab
+title: chilab
+username:
+account: ngrc-glycan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9387089
+bundleId: 7403916
+url: https://ngrc-glycan.shinyapps.io/chilab/
+when: 1688080941.82246
+lastSyncTime: 1688080941.82247
+asMultiple: FALSE
+asStatic: FALSE

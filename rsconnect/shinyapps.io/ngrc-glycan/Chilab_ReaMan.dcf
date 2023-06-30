@@ -1,0 +1,13 @@
+name: Chilab_ReaMan
+title: Chilab_ReaMan
+username:
+account: ngrc-glycan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9387082
+bundleId: 7403866
+url: https://ngrc-glycan.shinyapps.io/Chilab_ReaMan/
+when: 1688079522.93329
+lastSyncTime: 1688079522.9333
+asMultiple: FALSE
+asStatic: FALSE
